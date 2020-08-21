@@ -1,5 +1,6 @@
 # basic-NLPText
- `Natural Language Processing`  berbasis `Python` untuk pembelajaran praktikum semester 5 yaitu **Text Mining** di laboratorium komputer kampus saya. 
+ `Natural Language Processing`  berbasis `Python` untuk pembelajaran praktikum semester 6 yaitu **Text Mining** di laboratorium komputer kampus saya. Dibuat bulan **Maret 2020**
+ 
  Didalamnya terdapat materi mulai dari :
  1. Case Folding
  2. Tokenizing
@@ -9,7 +10,6 @@
  6. IMPLEMENTED
  
  Menggunakan ekstensi `IPYNB` karena Sourcecode ini dibangun menggunakan `Jupyter Notebook` sehingga nantinya bila ada library yang belum terinstall dapat mengunjungi link yang sudah di sertakan dibawah untuk proses install library, baik melalui `PIP` atau yang lainnya. Didalamnya sudah dijelaskan seperti modul penbelajaran dan semoga hal ini memudahkan dalam proses belajar. 
- 
  
  Dalam repositori ini menggunakan beberapa library antara lain :
 1. `NLTK` yang dapat di pelajari di https://www.nltk.org/
