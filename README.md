@@ -1,15 +1,15 @@
-# basic-NLPText
+# **Deskripsi**
  `Natural Language Processing`  berbasis `Python` untuk pembelajaran praktikum semester 6 yaitu **Text Mining** di laboratorium komputer kampus saya. Dibuat bulan **Maret 2020**
  
  Didalamnya terdapat materi mulai dari :
- 1. Case Folding
- 2. Tokenizing
- 3. Filtering/Stopwords
- 4. Stemming
- 5. TF-IDF
- 6. IMPLEMENTED
+ 1. **Case Folding**
+ 2. **Tokenizing**
+ 3. **Filtering/Stopwords**
+ 4. **Stemming**
+ 5. **TF-IDF**
+ 6. **IMPLEMENTED**
  
- Menggunakan ekstensi `IPYNB` karena Sourcecode ini dibangun menggunakan `Jupyter Notebook` sehingga nantinya bila ada library yang belum terinstall dapat mengunjungi link yang sudah di sertakan dibawah untuk proses install library, baik melalui `PIP` atau yang lainnya. Didalamnya sudah dijelaskan seperti modul penbelajaran dan semoga hal ini memudahkan dalam proses belajar. 
+ # **Library Used** 
  
  Dalam repositori ini menggunakan beberapa library antara lain :
 1. `NLTK` yang dapat di pelajari di https://www.nltk.org/
@@ -18,9 +18,12 @@
 4. `Regular Expressions` yang dapat dipelajari di https://docs.python.org/3/library/re.html
 5. dan library pendukung atau default yaitu `Pandas` , `matplotlib`, `numpy`. Normalnya sudah terinstall default pada `Anaconda Distribution`
 
-Khusus untuk file bernama `IMPLEMENTED` merupakan file implementasi semua kodingan dari case folding hingga TF-IDF. Dimana file tersebut berkorelasi dengan **source1** hingga **source10** berformat `txt`. 
+# **Penggunaan**
+1. Dapat dijalankan di `Jupyter Notebook` 
+2. Khusus untuk file bernama `IMPLEMENTED` merupakan file implementasi semua kodingan dari case folding hingga TF-IDF. Dimana file tersebut berkorelasi dengan **source1** hingga **source10** berformat `txt`. 
+3.  Menggunakan ekstensi `IPYNB` karena Sourcecode ini dibangun menggunakan `Jupyter Notebook` sehingga nantinya bila ada library yang belum terinstall dapat mengunjungi link yang sudah di sertakan dibawah untuk proses install library, baik melalui `PIP` atau yang lainnya. Didalamnya sudah dijelaskan seperti modul penbelajaran dan semoga hal ini memudahkan dalam proses belajar.
 
-Referensi :
+# **Referensi** :
 1. **Advernesia**. 2018. Data | Pengertian Data Informasi dan Pengetahuan. https://www.advernesia.com/blog/data-science/pengertian-data-informasidan-pengetahuan/ diakses pada 12 Februari 2020
 2. **Anaconda**. 2020. Anaconda Distribution. https://www.anaconda.com/distribution/ diakses pada 12 Februari 2020
 3. **DotNetPerls**. 2020. Python String punctuation() Method. https://www.dotnetperls.com/punctuation-python diakses pada 20 Februari 2020
